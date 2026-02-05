@@ -18,7 +18,7 @@ export default function SpecialOffer({ onNavigate }: SpecialOfferProps) {
                 New Customers: Get $100 Off Your First Shipment
               </h3>
               <p className="text-white/90">
-                Start your journey with Decalon and experience world-class logistics service
+                Start your journey with Zekon and experience world-class logistics service
               </p>
             </div>
           </div>
