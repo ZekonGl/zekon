@@ -24,7 +24,7 @@ export default function Header({ currentPage, onNavigate }: HeaderProps) {
             onClick={() => onNavigate('home')}
           >
             <div className="text-2xl font-bold text-[#1518FF]">
-              Decalon
+              Zekon
             </div>
           </div>
 
