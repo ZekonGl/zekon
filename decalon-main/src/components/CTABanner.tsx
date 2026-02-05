@@ -16,7 +16,7 @@ export default function CTABanner({ onNavigate }: CTABannerProps) {
         </div>
 
         <h2 className="text-3xl sm:text-4xl lg:text-5xl font-bold text-white mb-6 leading-tight">
-          Move Your Cargo with Decalon — Get a Fast Quote Today
+          Move Your Cargo with Zekon — Get a Fast Quote Today
         </h2>
 
         <p className="text-xl text-white/90 mb-8 max-w-2xl mx-auto">
