@@ -14,7 +14,7 @@ export default function Footer({ onNavigate }: FooterProps) {
               Zekon
             </div>
             <p className="text-gray-400 mb-4">
-              The Caucasus Region's leading logistics provider, delivering worldwide with confidence and expertise.
+              A leading cross-border trading company in the Caucasus region, connecting markets worldwide with expertise.
             </p>
           </div>
 
