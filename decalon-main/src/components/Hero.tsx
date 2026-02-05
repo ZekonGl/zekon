@@ -17,8 +17,8 @@ export default function Hero({ onNavigate }: HeroProps) {
             </div>
 
             <h1 className="text-4xl sm:text-5xl lg:text-6xl font-bold text-gray-900 leading-tight mb-6">
-              Caucasus Region's Largest Logistics Fleet –
-              <span className="text-[#1518FF]"> Delivering Worldwide</span> with Confidence
+              Global Trading Across Regions –
+              <span className="text-[#1518FF]"> Moving Goods Between Markets, Seamlessly with Confidence </span> 
             </h1>
 
             <p className="text-lg text-gray-600 mb-8 leading-relaxed">
