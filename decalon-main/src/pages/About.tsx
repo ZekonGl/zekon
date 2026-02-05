@@ -38,7 +38,7 @@ export default function About() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="max-w-3xl mx-auto text-center mb-16">
             <h1 className="text-4xl sm:text-5xl font-bold text-gray-900 mb-6">
-              About Zekong Global Logistics
+              About Zekon Global Logistics
             </h1>
             <p className="text-xl text-gray-600 leading-relaxed">
               Built by experienced international traders who understand the complexities of cross-border logistics, Zekong Global emerged from a vision to transform how businesses move goods across the Caucasus and beyond.
