@@ -16,7 +16,7 @@ export default function WhyChooseUs() {
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
           <div>
             <h2 className="text-3xl sm:text-4xl font-bold text-gray-900 mb-6">
-              Why Choose Zekong Global Logistics?
+              Why Choose Decalon Logistics?
             </h2>
             <p className="text-lg text-gray-600 mb-8">
               We combine regional expertise with global reach to deliver unmatched logistics solutions tailored to your business needs.

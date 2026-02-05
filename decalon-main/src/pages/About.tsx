@@ -38,10 +38,10 @@ export default function About() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="max-w-3xl mx-auto text-center mb-16">
             <h1 className="text-4xl sm:text-5xl font-bold text-gray-900 mb-6">
-              About Zekon Global Logistics
+              About Decalon Logistics
             </h1>
             <p className="text-xl text-gray-600 leading-relaxed">
-              Built by experienced international traders who understand the complexities of cross-border logistics, Zekong Global emerged from a vision to transform how businesses move goods across the Caucasus and beyond.
+              Built by experienced international traders who understand the complexities of cross-border logistics, Decalon emerged from a vision to transform how businesses move goods across the Caucasus and beyond.
             </p>
           </div>
 
@@ -58,13 +58,13 @@ export default function About() {
               <h2 className="text-3xl font-bold text-gray-900 mb-6">Our Story</h2>
               <div className="space-y-4 text-gray-600 leading-relaxed">
                 <p>
-                  Founded by a team of experienced international traders, Zekong Global Logistics was born from firsthand experience with the challenges of moving cargo across the Caucasus region. We saw the need for a logistics partner that combined deep regional knowledge with modern digital capabilities.
+                  Founded by a team of experienced international traders, Decalon Logistics was born from firsthand experience with the challenges of moving cargo across the Caucasus region. We saw the need for a logistics partner that combined deep regional knowledge with modern digital capabilities.
                 </p>
                 <p>
                   With over 7 years of trade expertise and the largest verified truck network in the Caucasus, we've built a reputation for reliability, speed, and innovation. Our strategic focus on the Europe-Asia Middle Corridor positions us uniquely to serve businesses looking to expand their reach.
                 </p>
                 <p>
-                  Today, Zekong Global operates a fleet of 500+ trucks and has successfully completed over 10,000 shipments, earning the trust of leading international businesses who demand excellence in every delivery.
+                  Today, Decalon operates a fleet of 500+ trucks and has successfully completed over 10,000 shipments, earning the trust of leading international businesses who demand excellence in every delivery.
                 </p>
               </div>
             </div>

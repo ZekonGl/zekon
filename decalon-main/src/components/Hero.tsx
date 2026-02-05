@@ -17,12 +17,12 @@ export default function Hero({ onNavigate }: HeroProps) {
             </div>
 
             <h1 className="text-4xl sm:text-5xl lg:text-6xl font-bold text-gray-900 leading-tight mb-6">
-              Global Multimodal Logistics –
-              <span className="text-[#1518FF]"> Air, Sea, Road & Rail</span> with Confidence
+              Caucasus Region's Largest Logistics Fleet –
+              <span className="text-[#1518FF]"> Delivering Worldwide</span> with Confidence
             </h1>
 
             <p className="text-lg text-gray-600 mb-8 leading-relaxed">
-              Zekong Global coordinates time-critical, high-value shipments with disciplined operations across air, sea, road, and rail networks—end to end.
+              Decalon provides end-to-end freight forwarding and international transportation solutions across Europe, Türkiye, the Caucasus, and Central Asia.
             </p>
 
             <div className="flex flex-col sm:flex-row gap-4">
@@ -43,22 +43,18 @@ export default function Hero({ onNavigate }: HeroProps) {
               </button>
             </div>
 
-            <div className="mt-12 grid grid-cols-2 sm:grid-cols-4 gap-6">
+            <div className="mt-12 grid grid-cols-3 gap-6">
               <div className="text-center">
-                <div className="text-3xl font-bold text-[#1518FF]">Air</div>
-                <div className="text-sm text-gray-600 mt-1">Priority Freight</div>
+                <div className="text-3xl font-bold text-[#1518FF]">7+</div>
+                <div className="text-sm text-gray-600 mt-1">Years Experience</div>
               </div>
               <div className="text-center">
-                <div className="text-3xl font-bold text-[#1518FF]">Sea</div>
-                <div className="text-sm text-gray-600 mt-1">FCL / LCL</div>
+                <div className="text-3xl font-bold text-[#1518FF]">2500+</div>
+                <div className="text-sm text-gray-600 mt-1">Trucks Fleet</div>
               </div>
               <div className="text-center">
-                <div className="text-3xl font-bold text-[#1518FF]">Road</div>
-                <div className="text-sm text-gray-600 mt-1">Cross-Border</div>
-              </div>
-              <div className="text-center">
-                <div className="text-3xl font-bold text-[#1518FF]">Rail</div>
-                <div className="text-sm text-gray-600 mt-1">Intermodal</div>
+                <div className="text-3xl font-bold text-[#1518FF]">10K+</div>
+                <div className="text-sm text-gray-600 mt-1">Shipments</div>
               </div>
             </div>
           </div>
@@ -70,26 +66,7 @@ export default function Hero({ onNavigate }: HeroProps) {
               alt="Logistics Operations"
               className="relative rounded-2xl shadow-2xl w-full h-[500px] object-cover"
             />
-
-            {/* Mode badges */}
-            <div className="absolute bottom-6 left-6 right-6 grid grid-cols-2 gap-3">
-              <div className="bg-white/90 backdrop-blur-sm rounded-xl p-3 shadow-lg border border-white/40">
-                <div className="text-xs font-semibold text-[#1518FF]">AIR FREIGHT</div>
-                <div className="text-sm text-gray-700">Speed & control for critical cargo</div>
-              </div>
-              <div className="bg-white/90 backdrop-blur-sm rounded-xl p-3 shadow-lg border border-white/40">
-                <div className="text-xs font-semibold text-[#1518FF]">SEA FREIGHT</div>
-                <div className="text-sm text-gray-700">FCL/LCL with disciplined documentation</div>
-              </div>
-              <div className="bg-white/90 backdrop-blur-sm rounded-xl p-3 shadow-lg border border-white/40">
-                <div className="text-xs font-semibold text-[#1518FF]">ROAD FREIGHT</div>
-                <div className="text-sm text-gray-700">Reliable fleet and last-mile coordination</div>
-              </div>
-              <div className="bg-white/90 backdrop-blur-sm rounded-xl p-3 shadow-lg border border-white/40">
-                <div className="text-xs font-semibold text-[#1518FF]">RAIL FREIGHT</div>
-                <div className="text-sm text-gray-700">Stable intermodal corridors</div>
-              </div>
-            </div>
+          </div>
         </div>
       </div>
     </section>
