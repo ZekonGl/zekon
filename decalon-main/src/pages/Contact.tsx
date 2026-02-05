@@ -180,7 +180,6 @@ export default function Contact() {
                       <div className="text-sm font-medium text-gray-500 mb-1">Email</div>
                       <a href="mailto:info@zekonlogistics.com" className="text-gray-900 hover:text-[#1518FF]">
                         hello@zekon.co
-                        sales@zekon.co
                       </a>
                     </div>
                   </div>
