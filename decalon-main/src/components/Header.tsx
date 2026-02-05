@@ -23,8 +23,15 @@ export default function Header({ currentPage, onNavigate }: HeaderProps) {
             className="flex items-center cursor-pointer"
             onClick={() => onNavigate('home')}
           >
-            <div className="text-2xl font-bold text-[#1518FF]">
-              Zekon
+            <div className="flex items-center gap-3">
+              <img
+                src="/logo.svg"
+                alt="Zekong Global logo"
+                className="h-9 w-9"
+              />
+              <div className="text-2xl font-bold text-[#1518FF]">
+                Zekong Global
+              </div>
             </div>
           </div>
 

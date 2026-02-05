@@ -111,7 +111,7 @@ export default function Contact() {
                         value={formData.email}
                         onChange={handleChange}
                         className="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-[#1518FF] focus:border-transparent outline-none transition-all"
-                        placeholder="john@company.com"
+                        placeholder="name@company.com"
                       />
                     </div>
 
@@ -178,8 +178,8 @@ export default function Contact() {
                     </div>
                     <div>
                       <div className="text-sm font-medium text-gray-500 mb-1">Email</div>
-                      <a href="mailto:info@decalonlogistics.com" className="text-gray-900 hover:text-[#1518FF]">
-                        hello@decalon.co
+                      <a href="mailto:info@zekon.co" className="text-gray-900 hover:text-[#1518FF]">
+                        info@zekon.co
                       </a>
                     </div>
                   </div>

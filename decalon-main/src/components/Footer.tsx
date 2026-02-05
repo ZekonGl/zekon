@@ -11,10 +11,10 @@ export default function Footer({ onNavigate }: FooterProps) {
         <div className="grid grid-cols-1 md:grid-cols-4 gap-8">
           <div className="col-span-1 md:col-span-2">
             <div className="text-2xl font-bold text-[#0EF1E2] mb-4">
-              Zekon
+              Zekong Global
             </div>
             <p className="text-gray-400 mb-4">
-              The Caucasus Region's leading logistics provider, delivering worldwide with confidence and expertise.
+              Premium multimodal logistics across air, sea, road and rail — delivering worldwide with confidence.
             </p>
           </div>
 
@@ -53,7 +53,7 @@ export default function Footer({ onNavigate }: FooterProps) {
             <ul className="space-y-3">
               <li className="flex items-start gap-2">
                 <Mail className="h-5 w-5 text-[#0EF1E2] mt-0.5 flex-shrink-0" />
-                <span className="text-gray-400">hello@zekon.co</span>
+                <span className="text-gray-400">info@zekon.co</span>
               </li>
               <li className="flex items-start gap-2">
                 <Phone className="h-5 w-5 text-[#0EF1E2] mt-0.5 flex-shrink-0" />
@@ -68,7 +68,7 @@ export default function Footer({ onNavigate }: FooterProps) {
         </div>
 
         <div className="border-t border-gray-800 mt-8 pt-8 text-center text-gray-400">
-          <p>&copy; {new Date().getFullYear()} Zekon Logistics LLC. All rights reserved.</p>
+          <p>&copy; {new Date().getFullYear()} Zekong Global Logistics LLC. All rights reserved.</p>
         </div>
       </div>
     </footer>
