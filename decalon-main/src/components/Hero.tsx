@@ -22,7 +22,7 @@ export default function Hero({ onNavigate }: HeroProps) {
             </h1>
 
             <p className="text-lg text-gray-600 mb-8 leading-relaxed">
-              Zekon provides end-to-end freight forwarding and international transportation solutions across Europe, Türkiye, the Caucasus, and Central Asia.
+              Zekon is an international trading company sourcing and supplying products across Europe, Türkiye, the Caucasus, and Central Asia.
             </p>
 
             <div className="flex flex-col sm:flex-row gap-4">
